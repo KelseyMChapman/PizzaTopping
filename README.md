@@ -1,2 +1,2 @@
 # PizzaTopping
-Practice
+Example of Parsing data from a file.
