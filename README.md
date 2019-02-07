@@ -9,3 +9,5 @@ Instructions: Download zip file. Save the file and unzip. Find application in fo
 Run application to view results.
 
 To view code: TopRankedToppings --> Program.cs
+
+Input file used for application: http://files.olo.com/pizzas.json
