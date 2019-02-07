@@ -1,7 +1,8 @@
-# PizzaTopping
+# PizzaToppingApp
 
 Example of Parsing data from a file. 
-Used: C#, .NET, JSON
+
+Use of C#, .NET, JSON
 
 
 Instructions: Download zip file. Save the file and unzip. Find application in folder TopRankedToppings --> obj --> debug --> TopRankedToppings.exe
